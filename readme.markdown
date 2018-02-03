@@ -15,3 +15,5 @@ _In addition, the incredible [Philip von Borries](http://www.vaubee.com) has cra
 _It's simple and beautiful, and makes some extremely complex, very compelling typographic animations quickly._
 
 _And part of the profits are going right back into supporting The League and making more great stuff, so if you love it, [grab a license today](http://animography.net/products/league-spartan)._
+
+damn boi
